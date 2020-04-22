@@ -2,8 +2,11 @@
 
 
 ## Basics
-DevOps, SRE, CI/CD,
+DevOps, SRE, CI/CD
+
 DNS, OSI, SSH, SSL, HTTP/S, REST API, LB, CDN
+
+YAML, YAML, YAML!
 
 ## Git
 https://www.katacoda.com/courses/git
