@@ -31,6 +31,8 @@ https://katacoda.com/contino/courses/kubernetes
 
 https://docs.google.com/spreadsheets/d/10NltoF_6y3mBwUzQ4bcQLQfCE1BWSgUDcJXy-Qp2JEU/edit#gid=0
 
+https://kodekloud.com/p/game-of-pods-game
+
 ## Jenkins
 
 ## GitOps
