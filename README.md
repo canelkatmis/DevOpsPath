@@ -1,5 +1,8 @@
 # DevOpsQuickPath
 
+Cloud and DevOps tools/technologies to became a Cloud/DevOps engineer
+
+Implement the [tasks](https://github.com/canelkatmis/DevOpsQuickPath/issues) one by one
 
 ## Basics
 DevOps, SRE, CI/CD
@@ -8,22 +11,22 @@ DNS, OSI, SSH, SSL, HTTP/S, REST API, LB, CDN
 
 YAML, YAML, YAML!
 
-## Git
-https://www.katacoda.com/courses/git
-
 ## Linux
 
 ## Bash
+
+## Git
+https://www.katacoda.com/courses/git
+
+## Python
 
 ## Ansible
 
 ## Vagrant
 
-## AWS
-
 ## Terraform
 
-## Python
+## AWS
 
 ## Container
 
