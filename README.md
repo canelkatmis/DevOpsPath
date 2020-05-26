@@ -1,6 +1,6 @@
 # DevOpsQuickPath
 
-Cloud and DevOps tools/technologies to became a Cloud/DevOps engineer
+Cloud and DevOps tools/technologies to become a Cloud/DevOps engineer
 
 Implement the [tasks](https://github.com/canelkatmis/DevOpsQuickPath/issues) one by one
 
